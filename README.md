@@ -1,4 +1,4 @@
-## Single Page Application in Angular using ES6 (MEAN Stack)
+## Single Page Application in Angular using ES6 + Node.js/Express + MongoDB (MEAN Stack)
 
 ## Web Application has below features:
 
